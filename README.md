@@ -1,10 +1,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/AshokReddy010/Stock-Market-Analysis-and-Prediction)
-![GitHub last commit](https://img.shields.io/github/last-commit/AshokReddy010/Stock-Market-Analysis-and-Prediction)
-![GitHub language count](https://img.shields.io/github/languages/count/AshokReddy010/Stock-Market-Analysis-and-Prediction)
-![GitHub stars](https://img.shields.io/github/stars/AshokReddy010/Stock-Market-Analysis-and-Prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AshokReddy010/Stock-Market-Analysis-and-Prediction?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/AshokReddy010/Stock-Market-Analysis-and-Prediction?style=social)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System)
+![GitHub language count](https://img.shields.io/github/languages/count/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System)
+![GitHub stars](https://img.shields.io/github/stars/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System?style=social)
 
 # 📈 Stock Market Prediction Web App (Real-Time + ML)
 
@@ -48,25 +48,25 @@ A **Stock Market Analysis and Prediction Web App** built using **FastAPI** and *
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/Home.png" alt="Home Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/Home.png" alt="Home Page" width="100%"/>
 
 ### 🧾 About Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/About.png" alt="About Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/About.png" alt="About Page" width="100%"/>
 
 ### 💱 Currency Converter
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/CurrencyConverter.png" alt="Currency Converter" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/CurrencyConverter.png" alt="Currency Converter" width="100%"/>
 
 ### 🔐 Login Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/Login.png" alt="Login Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/Login.png" alt="Login Page" width="100%"/>
 
 ### 📝 Register Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/Register.png" alt="Register Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/Register.png" alt="Register Page" width="100%"/>
 
 ### 📝 Dashboard Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/Dashboard.png" alt="Register Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/Dashboard.png" alt="Register Page" width="100%"/>
 
 ### 📝 StockDetails Page
-<img src="https://raw.githubusercontent.com/AshokReddy010/Stock-Market-Analysis-and-Prediction/main/frontend/src/assets/StockDetails.png" alt="Register Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aishkhansudo/Stock-Market-Analysis-and-Future-Prediction-System/main/frontend/src/assets/StockDetails.png" alt="Register Page" width="100%"/>
 ---
 
 ## 🧰 Built With
@@ -110,8 +110,8 @@ npm start
 
 ## 🤝 Contributors
 
-- [@AshokReddy010](https://github.com/AshokReddy010)
-- ASHOK REDDY BHIMAVARAPU
+- [@Aishkhansudo](https://github.com/Aishkhansudo)
+- Nasreen Fatima
 ---
 
 ## 📜 License
